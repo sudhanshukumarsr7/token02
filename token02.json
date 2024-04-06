@@ -1,0 +1,15 @@
+{
+    "name": "token07",
+    "description": "crowdfunding for educational institution",
+    "image": "https://www.bing.com/images/create/clear-the-background-of-pictures/1-661194dd8ad24fa0af7663f362410394?id=9mjkSxOj5y5tpxJLKcSw0g%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.8JOBef_BpwEamA0jSdXO&frame=sydedg&FORM=SYDBIC",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
